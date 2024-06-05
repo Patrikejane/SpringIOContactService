@@ -16,7 +16,7 @@ import java.util.Set;
 @NoArgsConstructor
 @AllArgsConstructor
 @Table (name = "USERS")
-public class UserInfo {
+public class  UserInfo {
 
 
     @Id
